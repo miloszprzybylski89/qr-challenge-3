@@ -1,0 +1,48 @@
+* {
+    margin:0;
+    padding:0;
+    text-decoration:0;
+    color:white;
+}
+
+.navbar {
+
+    background-color: black;
+
+    height: 9vh;
+
+}
+
+.navbar__item {
+
+    float:left;
+    padding: 15px;
+    background-color: black;
+
+}
+
+.navbar__item:hover {
+
+    background-color: rgba(204, 193, 193, 0.144);
+
+}
+
+img {
+    animation: moveInBottom ease-out;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+@keyframes moveInBottom {
+    0% {
+        opacity: 0.1;
+        transform: translateY(100vh);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
