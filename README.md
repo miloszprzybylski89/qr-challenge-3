@@ -1,4 +1,4 @@
-# Practice Repo 3
+# QR Challenge 3
 
 
 ### How to Contribute
