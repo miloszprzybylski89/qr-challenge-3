@@ -1,13 +1,13 @@
 > Please check all tasks that you've completed by placing an `x` within the square braces below.
 
 ## Proposed Changes
-- [ ] I have read [CONTRIBUTING.md](https://github.com/pesos/practice_repo3/blob/master/CONTRIBUTING.md)
-- [ ] I'm sending this pr from a qr code I found 
-- [ ] My name is in the pesos members list
+- [x] I have read [CONTRIBUTING.md](https://github.com/pesos/practice_repo3/blob/master/CONTRIBUTING.md)
+- [x] I'm sending this pr from a qr code I found 
+- [x] My name is in the pesos members list
 
 ## qr_code_uid
-QR Code #<!--uid-->
+QR Code #3 (UID: RTFM)<!--uid-->
 
 ## Fixes issue
-Fixes #<!--Issue Number-->
+Fixes #2<!--Issue Number-->
 
