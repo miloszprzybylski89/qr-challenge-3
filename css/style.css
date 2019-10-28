@@ -32,7 +32,7 @@ img {
 }
 
 img:hover {
-    transform: translate(50px, 50px);
+    transform: scale (1.1) translate(50px, 50px);
 }
 
 @keyframes moveInBottom {
