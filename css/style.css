@@ -28,7 +28,7 @@
 }
 
 img {
-    animation: moveInBottom ease-out;
+    animation: moveInBottom 2s ease-out;
 }
 
 img:hover {
