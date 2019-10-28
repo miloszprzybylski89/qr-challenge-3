@@ -24,6 +24,7 @@
 .navbar__item:hover {
 
     background-color: rgba(204, 193, 193, 0.144);
+    transform: scale(1.1);
 
 }
 
